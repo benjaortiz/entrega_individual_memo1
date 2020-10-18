@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Escudo" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-17T19:27:14" hostname="LAPTOP-LEU5CHUJ" time="0.869">
+  <properties/>
+  <testcase name="blocking an attack with the shield" classname="Escudo" time="0.796"/>
+  <testcase name="blocking and attack thats stronger than the shield" classname="Escudo" time="0.019"/>
+  <testcase name="blocking an attack breaks the shield" classname="Escudo" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
